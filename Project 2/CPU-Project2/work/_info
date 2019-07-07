@@ -1,0 +1,1015 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Modeltech_pe_edu_10.4a/examples
+Ealu1
+Z0 w1540345452
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/chriskasper/Desktop/CPU-Project2
+Z4 8C:/Users/chriskasper/Desktop/CPU-Project2/ALU1.vhd
+Z5 FC:/Users/chriskasper/Desktop/CPU-Project2/ALU1.vhd
+l0
+L4
+VFX7lWN<;3DMc?XmSc9ji=1
+!s100 z6FXFoi9OW=2[JU>cY0Ye2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1542409929
+!i10b 1
+Z8 !s108 1542409929.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ALU1.vhd|
+Z10 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ALU1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehav
+R1
+R2
+DEx4 work 4 alu1 0 22 FX7lWN<;3DMc?XmSc9ji=1
+l12
+L10
+Vkh<SZ;^O6`K5ed9^`dL;70
+!s100 lmo3Fh;jem`:0MWElSTRf0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu32
+Z13 w1540345451
+R1
+R2
+R3
+Z14 8C:/Users/chriskasper/Desktop/CPU-Project2/ALU32.vhd
+Z15 FC:/Users/chriskasper/Desktop/CPU-Project2/ALU32.vhd
+l0
+L3
+V7<G]j]d@GFADZ4eg3kG;_2
+!s100 VGMN5L6IlXON^R^I=Io2j0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ALU32.vhd|
+Z17 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ALU32.vhd|
+!i113 1
+R11
+R12
+Astruc
+R1
+R2
+DEx4 work 5 alu32 0 22 7<G]j]d@GFADZ4eg3kG;_2
+l31
+L11
+VS56ZLKmbo7GgKBEJj808^1
+!s100 I>ofUO2c4GeVg`^CdKnPm2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ealucontrol
+Z18 w1540571796
+Z19 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z20 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z22 8C:/Users/chriskasper/Desktop/CPU-Project2/ALUControl.vhd
+Z23 FC:/Users/chriskasper/Desktop/CPU-Project2/ALUControl.vhd
+l0
+L6
+V@aaDV[:QIl^KN2@4[<aK30
+!s100 YJDc2B@zZTJUbnj4Hl=EC0
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ALUControl.vhd|
+Z25 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ALUControl.vhd|
+!i113 1
+R11
+R12
+Abehav
+R19
+R20
+R21
+R1
+R2
+DEx4 work 10 alucontrol 0 22 @aaDV[:QIl^KN2@4[<aK30
+l14
+L12
+V5Az@P9hze0n]2oRZQc<B@2
+!s100 LG@ccJA8ELjS3kD4z9U933
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Eand2
+Z26 w1540592152
+R1
+R2
+R3
+Z27 8C:/Users/chriskasper/Desktop/CPU-Project2/And2.vhd
+Z28 FC:/Users/chriskasper/Desktop/CPU-Project2/And2.vhd
+l0
+L4
+VF[;ROcPY<Mgh5;Ha6;dDQ3
+!s100 mTO]lfNgCI=`fD6?^=]013
+R6
+32
+R7
+!i10b 1
+R8
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/And2.vhd|
+Z30 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/And2.vhd|
+!i113 1
+R11
+R12
+Adf
+R1
+R2
+DEx4 work 4 and2 0 22 F[;ROcPY<Mgh5;Ha6;dDQ3
+l12
+L10
+Vf7UYU<UEBzYm>zkKNlG7I1
+!s100 K7An?b@HYaXVXd<F3[[KN0
+R6
+32
+R7
+!i10b 1
+R8
+R29
+R30
+!i113 1
+R11
+R12
+Econtrol
+Z31 w1542402228
+R19
+R1
+R2
+R3
+Z32 8C:/Users/chriskasper/Desktop/CPU-Project2/Control.vhd
+Z33 FC:/Users/chriskasper/Desktop/CPU-Project2/Control.vhd
+l0
+L5
+VjGYlMae]0GVMRC_bAF0=]1
+!s100 mnLO`@cKK[2>]MCT4bYd:1
+R6
+32
+Z34 !s110 1542409930
+!i10b 1
+R8
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/Control.vhd|
+Z36 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/Control.vhd|
+!i113 1
+R11
+R12
+Abehav
+R19
+R1
+R2
+DEx4 work 7 control 0 22 jGYlMae]0GVMRC_bAF0=]1
+l12
+L10
+VX_0j5lLKU<6CiD7@ZdT@K1
+!s100 ;GZ5?=DSR3GA=hD^Q^L242
+R6
+32
+R34
+!i10b 1
+R8
+R35
+R36
+!i113 1
+R11
+R12
+Econtrolhazardunit
+Z37 w1542402667
+R21
+R1
+R2
+R3
+Z38 8C:/Users/chriskasper/Desktop/CPU-Project2/ControlHazardUnit.vhd
+Z39 FC:/Users/chriskasper/Desktop/CPU-Project2/ControlHazardUnit.vhd
+l0
+L4
+Vl29oL`NbRPQoHOOHSWm=L3
+!s100 ;Nnd20AhI1i]`NSNB;DIn1
+R6
+32
+Z40 !s110 1542409932
+!i10b 1
+Z41 !s108 1542409931.000000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ControlHazardUnit.vhd|
+Z43 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ControlHazardUnit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 17 controlhazardunit 0 22 l29oL`NbRPQoHOOHSWm=L3
+l13
+L11
+VR?`0O?GfXRQ^J=Q=Mje_00
+!s100 R:3X:MfeL33^T`Z7b8`Ma0
+R6
+32
+R40
+!i10b 1
+R41
+R42
+R43
+!i113 1
+R11
+R12
+Ecpu
+Z44 w1542404248
+R21
+R1
+R2
+R3
+Z45 8C:/Users/chriskasper/Desktop/CPU-Project2/CPU.vhd
+Z46 FC:/Users/chriskasper/Desktop/CPU-Project2/CPU.vhd
+l0
+L5
+VkRIz20VCh?jLc@@W1K6QG3
+!s100 EGDd9UgUj=XXW`DmWR=:T0
+R6
+32
+R34
+!i10b 1
+Z47 !s108 1542409930.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/CPU.vhd|
+Z49 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/CPU.vhd|
+!i113 1
+R11
+R12
+Astructure
+R21
+R1
+R2
+DEx4 work 3 cpu 0 22 kRIz20VCh?jLc@@W1K6QG3
+l200
+L9
+VQdk`3_2f>9J:g<6b]47]F1
+!s100 <YBlNW7R>bB=LeCG<m1b^2
+R6
+32
+R34
+!i10b 1
+R47
+R48
+R49
+!i113 1
+R11
+R12
+Edatamemory
+Z50 w1542337055
+R21
+R1
+R2
+R3
+Z51 8C:/Users/chriskasper/Desktop/CPU-Project2/DataMemory.vhd
+Z52 FC:/Users/chriskasper/Desktop/CPU-Project2/DataMemory.vhd
+l0
+L4
+VN0HTGH`e@eIekLzUlzOc43
+!s100 2I86ca>bcjza[54XInlEF3
+R6
+32
+R34
+!i10b 1
+R47
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/DataMemory.vhd|
+Z54 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/DataMemory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 10 datamemory 0 22 N0HTGH`e@eIekLzUlzOc43
+l16
+L11
+VI5lKA1d3jf5j`XSC_jhJ31
+!s100 mT_F]e8FhdBCGfHoK<f<K2
+R6
+32
+R34
+!i10b 1
+R47
+R53
+R54
+!i113 1
+R11
+R12
+Eequalitytest
+Z55 w1542395991
+R21
+R1
+R2
+R3
+Z56 8C:/Users/chriskasper/Desktop/CPU-Project2/EqualityTest.vhd
+Z57 FC:/Users/chriskasper/Desktop/CPU-Project2/EqualityTest.vhd
+l0
+L4
+VNzT=i@Ul9P;85;8;5N9d<1
+!s100 _QkW9L_bXDlo:fFJQ`6kc0
+R6
+32
+R40
+!i10b 1
+Z58 !s108 1542409932.000000
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/EqualityTest.vhd|
+Z60 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/EqualityTest.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 12 equalitytest 0 22 NzT=i@Ul9P;85;8;5N9d<1
+l11
+L9
+VVONn9Q9FKS1:PPn3jeI0?2
+!s100 7G4n_jQLBddgAX<eZ[JXV2
+R6
+32
+R40
+!i10b 1
+R58
+R59
+R60
+!i113 1
+R11
+R12
+Eexmem
+Z61 w1542393786
+R21
+R1
+R2
+R3
+Z62 8C:/Users/chriskasper/Desktop/CPU-Project2/EXMEM.vhd
+Z63 FC:/Users/chriskasper/Desktop/CPU-Project2/EXMEM.vhd
+l0
+L4
+VFn>GEfEKen`Q_XJ8E3A>Z2
+!s100 >5BMFC4bO_2Yn75a:[Akl1
+R6
+32
+R34
+!i10b 1
+R47
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/EXMEM.vhd|
+Z65 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/EXMEM.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 5 exmem 0 22 Fn>GEfEKen`Q_XJ8E3A>Z2
+l22
+L17
+VN_Cl^7H09ML2[^1@Y8=Ab3
+!s100 BT8<SOiXFjAVId<d8Mf560
+R6
+32
+R34
+!i10b 1
+R47
+R64
+R65
+!i113 1
+R11
+R12
+Eforwardingunit
+Z66 w1542338364
+R21
+R1
+R2
+R3
+Z67 8C:/Users/chriskasper/Desktop/CPU-Project2/ForwardingUnit.vhd
+Z68 FC:/Users/chriskasper/Desktop/CPU-Project2/ForwardingUnit.vhd
+l0
+L4
+V?Jbi4jn8RziNF1K4RjL412
+!s100 C2iKJaZ0_K0Ol5ZaMWEV]3
+R6
+32
+R34
+!i10b 1
+R47
+Z69 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ForwardingUnit.vhd|
+Z70 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ForwardingUnit.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 14 forwardingunit 0 22 ?Jbi4jn8RziNF1K4RjL412
+l16
+L11
+VYXf9k2gHSUYn]YThcbM5b3
+!s100 3g`F02Hmh[KW;Uac_Vgek1
+R6
+32
+R34
+!i10b 1
+R47
+R69
+R70
+!i113 1
+R11
+R12
+Eidex
+Z71 w1542345494
+R21
+R1
+R2
+R3
+Z72 8C:/Users/chriskasper/Desktop/CPU-Project2/IDEX.vhd
+Z73 FC:/Users/chriskasper/Desktop/CPU-Project2/IDEX.vhd
+l0
+L4
+VA=1^a_i:dNE2;RGjJZ4]z1
+!s100 nY=]J[nVknVXViQFI^^nS2
+R6
+32
+R34
+!i10b 1
+R47
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/IDEX.vhd|
+Z75 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/IDEX.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 4 idex 0 22 A=1^a_i:dNE2;RGjJZ4]z1
+l23
+L17
+V0J0cAIR9M:W1B9UChIDe>1
+!s100 8BA<blYRmTZJl<>5bMJ9N3
+R6
+32
+R34
+!i10b 1
+R47
+R74
+R75
+!i113 1
+R11
+R12
+Eifid
+Z76 w1542394698
+R21
+R1
+R2
+R3
+Z77 8C:/Users/chriskasper/Desktop/CPU-Project2/IFID.vhd
+Z78 FC:/Users/chriskasper/Desktop/CPU-Project2/IFID.vhd
+l0
+L4
+VckSoaE];<?]7EQ]nJFh_>3
+!s100 k^]C41D5F12W??0RRi:AH0
+R6
+32
+R34
+!i10b 1
+R47
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/IFID.vhd|
+Z80 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/IFID.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 4 ifid 0 22 ckSoaE];<?]7EQ]nJFh_>3
+l16
+L12
+V`SB`QUb>H^mg4FI6n_cia3
+!s100 0Ibl@1z^OWm:U^DZF@aj:0
+R6
+32
+R34
+!i10b 1
+R47
+R79
+R80
+!i113 1
+R11
+R12
+Einstmemory
+Z81 w1542409873
+R21
+R1
+R2
+R3
+Z82 8C:/Users/chriskasper/Desktop/CPU-Project2/InstMemory.vhd
+Z83 FC:/Users/chriskasper/Desktop/CPU-Project2/InstMemory.vhd
+l0
+L5
+V;0WeK_18QOT974ZfA5A282
+!s100 T5e6abJ6g?hCHhgJRP4<L3
+R6
+32
+R34
+!i10b 1
+R47
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/InstMemory.vhd|
+Z85 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/InstMemory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 10 instmemory 0 22 ;0WeK_18QOT974ZfA5A282
+l12
+L7
+V_efl1elk8PiWLi0nPA8eK2
+!s100 oWXCa@JN9X[@]1M2@llI90
+R6
+32
+R34
+!i10b 1
+R47
+R84
+R85
+!i113 1
+R11
+R12
+Ememwb
+Z86 w1540576352
+R21
+R1
+R2
+R3
+Z87 8C:/Users/chriskasper/Desktop/CPU-Project2/MEMWB.vhd
+Z88 FC:/Users/chriskasper/Desktop/CPU-Project2/MEMWB.vhd
+l0
+L4
+V?oe:P^NeN2`P[D`ZGgWgD2
+!s100 9SR1G`88aVlD<N0M^ML^C0
+R6
+32
+Z89 !s110 1542409931
+!i10b 1
+R47
+Z90 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/MEMWB.vhd|
+Z91 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/MEMWB.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 5 memwb 0 22 ?oe:P^NeN2`P[D`ZGgWgD2
+l20
+L15
+V14Wd]_50aSB^Gg[i@?7Bm1
+!s100 MFKme240WE2S:UhYBjV[83
+R6
+32
+R89
+!i10b 1
+R47
+R90
+R91
+!i113 1
+R11
+R12
+Emux32
+Z92 w1542400870
+R1
+R2
+R3
+Z93 8C:/Users/chriskasper/Desktop/CPU-Project2/mux32.vhd
+Z94 FC:/Users/chriskasper/Desktop/CPU-Project2/mux32.vhd
+l0
+L4
+V@;XVhQh[NnOQzS0HTDnIA0
+!s100 OR1@K8cO9SQ8H07WTk2I?0
+R6
+32
+R89
+!i10b 1
+R41
+Z95 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/mux32.vhd|
+Z96 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/mux32.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 5 mux32 0 22 @;XVhQh[NnOQzS0HTDnIA0
+l12
+L10
+VZG7zn9RfGae:O4:IS7mES2
+!s100 `hLA30336RMIP>c3Pbn=c1
+R6
+32
+R89
+!i10b 1
+R41
+R95
+R96
+!i113 1
+R11
+R12
+Emux32_3_1
+Z97 w1542335444
+R1
+R2
+R3
+Z98 8C:/Users/chriskasper/Desktop/CPU-Project2/mux32_3_1.vhd
+Z99 FC:/Users/chriskasper/Desktop/CPU-Project2/mux32_3_1.vhd
+l0
+L4
+VL3>oRl5ER8W9Io^<SkbbL1
+!s100 [S_5feVRW7W]B6z4PH1EO2
+R6
+32
+R89
+!i10b 1
+R41
+Z100 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/mux32_3_1.vhd|
+Z101 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/mux32_3_1.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 9 mux32_3_1 0 22 L3>oRl5ER8W9Io^<SkbbL1
+l12
+L10
+V^k@R7N8kQmc7WKOm;@Y7m1
+!s100 I28c1^e]>[61zC]9UK3C`2
+R6
+32
+R89
+!i10b 1
+R41
+R100
+R101
+!i113 1
+R11
+R12
+Emux5
+R0
+R1
+R2
+R3
+Z102 8C:/Users/chriskasper/Desktop/CPU-Project2/mux5.vhd
+Z103 FC:/Users/chriskasper/Desktop/CPU-Project2/mux5.vhd
+l0
+L4
+V;Gl?A076kefo`SLl9i;[D2
+!s100 go`3>CK@=cfNQcB@<JRVQ3
+R6
+32
+R89
+!i10b 1
+R41
+Z104 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/mux5.vhd|
+Z105 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/mux5.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 4 mux5 0 22 ;Gl?A076kefo`SLl9i;[D2
+l12
+L10
+VC?17YJ6@V3fQ5BdLah@Cd2
+!s100 `cef8Ag1@]WC1elUC9C[82
+R6
+32
+R89
+!i10b 1
+R41
+R104
+R105
+!i113 1
+R11
+R12
+Emux9
+Z106 w1542398704
+R1
+R2
+R3
+Z107 8C:/Users/chriskasper/Desktop/CPU-Project2/mux9.vhd
+Z108 FC:/Users/chriskasper/Desktop/CPU-Project2/mux9.vhd
+l0
+L4
+VEjZQ8IUK6gQn1=bNnjzXR1
+!s100 ]gkg:6JDVcCNYa:`PNFZM3
+R6
+32
+R40
+!i10b 1
+R58
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/mux9.vhd|
+Z110 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/mux9.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+Z111 DEx4 work 4 mux9 0 22 EjZQ8IUK6gQn1=bNnjzXR1
+l12
+L10
+Z112 VSj;C[k18TM>7:1CTUgJzW1
+Z113 !s100 nNC_XOlzk2Vi1YlUDB]?S3
+R6
+32
+R40
+!i10b 1
+R58
+R109
+R110
+!i113 1
+R11
+R12
+Enor32
+R0
+R1
+R2
+R3
+Z114 8C:/Users/chriskasper/Desktop/CPU-Project2/NOR32.vhd
+Z115 FC:/Users/chriskasper/Desktop/CPU-Project2/NOR32.vhd
+l0
+L4
+Vz5DM98=g7<2K?bJ1o=OoQ3
+!s100 5Z_DX^OFfR_<Xgk2CIUV73
+R6
+32
+R89
+!i10b 1
+R41
+Z116 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/NOR32.vhd|
+Z117 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/NOR32.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 5 nor32 0 22 z5DM98=g7<2K?bJ1o=OoQ3
+l11
+L9
+V;c>knKkem5=VF0U8>LOZk2
+!s100 c_LRSzh]TPz>z1RQbLX?m0
+R6
+32
+R89
+!i10b 1
+R41
+R116
+R117
+!i113 1
+R11
+R12
+Epc
+R0
+R1
+R2
+R3
+Z118 8C:/Users/chriskasper/Desktop/CPU-Project2/PC.vhd
+Z119 FC:/Users/chriskasper/Desktop/CPU-Project2/PC.vhd
+l0
+L4
+V@g]06lNmQdR9A0^[fPi^b0
+!s100 G6F[lgEAYFeE`izJHLnH^0
+R6
+32
+R89
+!i10b 1
+R41
+Z120 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/PC.vhd|
+Z121 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/PC.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 2 pc 0 22 @g]06lNmQdR9A0^[fPi^b0
+l12
+L10
+Vk1UjR:5`?ie@HRiEgFF6F1
+!s100 UMJ>OI;Qg:l4:O35PeS`31
+R6
+32
+R89
+!i10b 1
+R41
+R120
+R121
+!i113 1
+R11
+R12
+Eregisters
+Z122 w1542409924
+R21
+R1
+R2
+R3
+Z123 8C:/Users/chriskasper/Desktop/CPU-Project2/registers.vhd
+Z124 FC:/Users/chriskasper/Desktop/CPU-Project2/registers.vhd
+l0
+L4
+V1YOcBkQObJ8>Obo8JM78h1
+!s100 3_m1RgG4P[S7m7QLW4FL_1
+R6
+32
+R89
+!i10b 1
+R41
+Z125 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/registers.vhd|
+Z126 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/registers.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 9 registers 0 22 1YOcBkQObJ8>Obo8JM78h1
+l16
+L11
+V1WYa6S8D?;OHWQOzA@aI@3
+!s100 mUh9ooc[`z_X9W]ZQzLcc0
+R6
+32
+R89
+!i10b 1
+R41
+R125
+R126
+!i113 1
+R11
+R12
+Eshiftleft2
+R0
+R1
+R2
+R3
+Z127 8C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2.vhd
+Z128 FC:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2.vhd
+l0
+L4
+VOeAfO=T[T>kSc7[iX22aF2
+!s100 mHObFgnCLRP^Ec;6b8ojE1
+R6
+32
+R89
+!i10b 1
+R41
+Z129 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2.vhd|
+Z130 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 shiftleft2 0 22 OeAfO=T[T>kSc7[iX22aF2
+l10
+L9
+V51Z:2d25S8YE9f`aC_H1O2
+!s100 ?TfDLboc_E;L8h:?lS<Wa0
+R6
+32
+R89
+!i10b 1
+R41
+R129
+R130
+!i113 1
+R11
+R12
+Eshiftleft2jump
+R0
+R1
+R2
+R3
+Z131 8C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2Jump.vhd
+Z132 FC:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2Jump.vhd
+l0
+L4
+VoO0eE=VJgBgA3P=9d:]cW2
+!s100 MOd[eHj6ZFD3kfngf5V0i3
+R6
+32
+R89
+!i10b 1
+R41
+Z133 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2Jump.vhd|
+Z134 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2Jump.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 14 shiftleft2jump 0 22 oO0eE=VJgBgA3P=9d:]cW2
+l12
+L10
+V>b49?O<RU3f<[]gT2cSPc2
+!s100 ZhEDRRcK2^L@=P6hgnWC23
+R6
+32
+R89
+!i10b 1
+R41
+R133
+R134
+!i113 1
+R11
+R12
+Esignextend
+R0
+R1
+R2
+R3
+Z135 8C:/Users/chriskasper/Desktop/CPU-Project2/SignExtend.vhd
+Z136 FC:/Users/chriskasper/Desktop/CPU-Project2/SignExtend.vhd
+l0
+L4
+ViCUznlb2z5?PzNPEzjnkJ2
+!s100 45Pd1iCPO8:9[Kd45_K^H1
+R6
+32
+R7
+!i10b 1
+R8
+Z137 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/CPU-Project2/SignExtend.vhd|
+Z138 !s107 C:/Users/chriskasper/Desktop/CPU-Project2/SignExtend.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 signextend 0 22 iCUznlb2z5?PzNPEzjnkJ2
+l10
+L9
+VUG8Gk3bO<[WXRQOJ]Vo5C3
+!s100 <<dDb97B0]>TlO`9^Y8ol0
+R6
+32
+R7
+!i10b 1
+R8
+R137
+R138
+!i113 1
+R11
+R12

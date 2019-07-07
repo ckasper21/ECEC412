@@ -1,0 +1,25 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL, IEEE.NUMERIC_STD.ALL;
+
+entity EqualityTest is
+port(RR1,RR2:in std_logic_vector(31 downto 0);
+	isEqual: out std_logic);
+end EqualityTest;
+
+architecture Behavioral of EqualityTest is
+
+begin
+
+process(RR1,RR2)
+
+begin
+
+if RR1 = RR2 then
+	isEqual <= '1';
+else
+	isEqual <= '0';
+end if;
+
+end process;
+
+end Behavioral;

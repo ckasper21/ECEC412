@@ -1,0 +1,216 @@
+C:/Users/chriskasper/Desktop/CPU-Project2/InstMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/InstMemory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity InstMemory
+-- Compiling architecture Behavioral of InstMemory
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/mux32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/mux32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux32
+-- Compiling architecture behav of mux32
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2Jump.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2Jump.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2Jump
+-- Compiling architecture behav of ShiftLeft2Jump
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/mux5.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/mux5.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux5
+-- Compiling architecture behav of mux5
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ALU32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ALU32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU32
+-- Compiling architecture struc of ALU32
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/Control.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/Control.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Control
+-- Compiling architecture behav of Control
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/mux32_3_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/mux32_3_1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux32_3_1
+-- Compiling architecture behav of mux32_3_1
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/IDEX.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/IDEX.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IDEX
+-- Compiling architecture Behavioral of IDEX
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/mux9.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/mux9.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux9
+-- Compiling architecture behav of mux9
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ForwardingUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ForwardingUnit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ForwardingUnit
+-- Compiling architecture Behavioral of ForwardingUnit
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/EXMEM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/EXMEM.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity EXMEM
+-- Compiling architecture Behavioral of EXMEM
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/NOR32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/NOR32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOR32
+-- Compiling architecture behav of NOR32
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/IFID.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/IFID.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity IFID
+-- Compiling architecture Behavioral of IFID
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/And2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/And2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity And2
+-- Compiling architecture df of And2
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/registers.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/registers.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture Behavioral of registers
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/CPU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/CPU.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CPU
+-- Compiling architecture structure of CPU
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/MEMWB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/MEMWB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity MEMWB
+-- Compiling architecture Behavioral of MEMWB
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/SignExtend.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture behavioral of SignExtend
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ControlHazardUnit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ControlHazardUnit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity ControlHazardUnit
+-- Compiling architecture Behavioral of ControlHazardUnit
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/DataMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/DataMemory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture Behavioral of DataMemory
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ShiftLeft2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2
+-- Compiling architecture behavioral of ShiftLeft2
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/PC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/PC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC
+-- Compiling architecture behav of PC
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ALU1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ALU1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU1
+-- Compiling architecture behav of ALU1
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/ALUControl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/ALUControl.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALUControl
+-- Compiling architecture behav of ALUControl
+
+} {} {}} C:/Users/chriskasper/Desktop/CPU-Project2/EqualityTest.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/CPU-Project2/EqualityTest.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity EqualityTest
+-- Compiling architecture Behavioral of EqualityTest
+
+} {} {}}

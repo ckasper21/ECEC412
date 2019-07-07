@@ -1,0 +1,833 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/chriskasper/Desktop/ECEC 412/SingleCycle_Stack
+Ealu1
+Z0 w1540349052
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/chriskasper/Desktop/PipelineCPU
+Z4 8C:/Users/chriskasper/Desktop/PipelineCPU/ALU1.vhd
+Z5 FC:/Users/chriskasper/Desktop/PipelineCPU/ALU1.vhd
+l0
+L4
+VFX7lWN<;3DMc?XmSc9ji=1
+!s100 z6FXFoi9OW=2[JU>cY0Ye2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1541009015
+!i10b 1
+Z8 !s108 1541009015.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/ALU1.vhd|
+Z10 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/ALU1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehav
+R1
+R2
+DEx4 work 4 alu1 0 22 FX7lWN<;3DMc?XmSc9ji=1
+l12
+L10
+Vkh<SZ;^O6`K5ed9^`dL;70
+!s100 lmo3Fh;jem`:0MWElSTRf0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu32
+Z13 w1540349051
+R1
+R2
+R3
+Z14 8C:/Users/chriskasper/Desktop/PipelineCPU/ALU32.vhd
+Z15 FC:/Users/chriskasper/Desktop/PipelineCPU/ALU32.vhd
+l0
+L3
+V7<G]j]d@GFADZ4eg3kG;_2
+!s100 VGMN5L6IlXON^R^I=Io2j0
+R6
+32
+R7
+!i10b 1
+R8
+Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/ALU32.vhd|
+Z17 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/ALU32.vhd|
+!i113 1
+R11
+R12
+Astruc
+R1
+R2
+DEx4 work 5 alu32 0 22 7<G]j]d@GFADZ4eg3kG;_2
+l31
+L11
+VS56ZLKmbo7GgKBEJj808^1
+!s100 I>ofUO2c4GeVg`^CdKnPm2
+R6
+32
+R7
+!i10b 1
+R8
+R16
+R17
+!i113 1
+R11
+R12
+Ealucontrol
+Z18 w1540575396
+Z19 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z20 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z21 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z22 8C:/Users/chriskasper/Desktop/PipelineCPU/ALUControl.vhd
+Z23 FC:/Users/chriskasper/Desktop/PipelineCPU/ALUControl.vhd
+l0
+L6
+V@aaDV[:QIl^KN2@4[<aK30
+!s100 YJDc2B@zZTJUbnj4Hl=EC0
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/ALUControl.vhd|
+Z25 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/ALUControl.vhd|
+!i113 1
+R11
+R12
+Abehav
+R19
+R20
+R21
+R1
+R2
+DEx4 work 10 alucontrol 0 22 @aaDV[:QIl^KN2@4[<aK30
+l14
+L12
+V5Az@P9hze0n]2oRZQc<B@2
+!s100 LG@ccJA8ELjS3kD4z9U933
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
+Eand2
+Z26 w1540595752
+R1
+R2
+R3
+Z27 8C:/Users/chriskasper/Desktop/PipelineCPU/And2.vhd
+Z28 FC:/Users/chriskasper/Desktop/PipelineCPU/And2.vhd
+l0
+L4
+VF[;ROcPY<Mgh5;Ha6;dDQ3
+!s100 mTO]lfNgCI=`fD6?^=]013
+R6
+32
+Z29 !s110 1541009016
+!i10b 1
+R8
+Z30 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/And2.vhd|
+Z31 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/And2.vhd|
+!i113 1
+R11
+R12
+Adf
+R1
+R2
+Z32 DEx4 work 4 and2 0 22 F[;ROcPY<Mgh5;Ha6;dDQ3
+l12
+L10
+Vf7UYU<UEBzYm>zkKNlG7I1
+!s100 K7An?b@HYaXVXd<F3[[KN0
+R6
+32
+R29
+!i10b 1
+R8
+R30
+R31
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+R32
+l12
+L10
+VGKam;oj5gL7oDC9aZ3W5X1
+!s100 iYZJm@RWA5Dn9EVU]IIM41
+R6
+32
+!s110 1540595084
+!i10b 1
+!s108 1540595084.000000
+R30
+R31
+!i113 1
+R11
+R12
+R0
+Econtrol
+R0
+R19
+R1
+R2
+R3
+Z33 8C:/Users/chriskasper/Desktop/PipelineCPU/Control.vhd
+Z34 FC:/Users/chriskasper/Desktop/PipelineCPU/Control.vhd
+l0
+L5
+V=H_GHE=3OQoc@Se315T8Y1
+!s100 n81ZM9Eh:ihHb_5K?FbVG3
+R6
+32
+R29
+!i10b 1
+Z35 !s108 1541009016.000000
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/Control.vhd|
+Z37 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/Control.vhd|
+!i113 1
+R11
+R12
+Abehav
+R19
+R1
+R2
+DEx4 work 7 control 0 22 =H_GHE=3OQoc@Se315T8Y1
+l14
+L12
+VYefMGWKd3<Q[E>gFi9MR71
+!s100 3:XXWh>kjG8Ml5RRh@TAc3
+R6
+32
+R29
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R11
+R12
+Ecpu
+Z38 w1541002806
+R21
+R1
+R2
+R3
+Z39 8C:/Users/chriskasper/Desktop/PipelineCPU/CPU.vhd
+Z40 FC:/Users/chriskasper/Desktop/PipelineCPU/CPU.vhd
+l0
+L5
+VkRIz20VCh?jLc@@W1K6QG3
+!s100 EGDd9UgUj=XXW`DmWR=:T0
+R6
+32
+R29
+!i10b 1
+R35
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/CPU.vhd|
+Z42 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/CPU.vhd|
+!i113 1
+R11
+R12
+Astructure
+R21
+R1
+R2
+DEx4 work 3 cpu 0 22 kRIz20VCh?jLc@@W1K6QG3
+l158
+L9
+VlNDnB]zTOF4ee2WIH?3812
+!s100 ]koclZizlbd=n4mlM>1I]2
+R6
+32
+R29
+!i10b 1
+R35
+R41
+R42
+!i113 1
+R11
+R12
+Edatamemory
+Z43 w1541002802
+R21
+R1
+R2
+R3
+Z44 8C:/Users/chriskasper/Desktop/PipelineCPU/DataMemory.vhd
+Z45 FC:/Users/chriskasper/Desktop/PipelineCPU/DataMemory.vhd
+l0
+L4
+VN0HTGH`e@eIekLzUlzOc43
+!s100 2I86ca>bcjza[54XInlEF3
+R6
+32
+R29
+!i10b 1
+R35
+Z46 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/DataMemory.vhd|
+Z47 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/DataMemory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 10 datamemory 0 22 N0HTGH`e@eIekLzUlzOc43
+l16
+L11
+V1RaKE>2[@CdAO2=WbNH>^1
+!s100 IO<02g7Qe1Q>LNWD3<m1D2
+R6
+32
+R29
+!i10b 1
+R35
+R46
+R47
+!i113 1
+R11
+R12
+Eexmem
+Z48 w1540595926
+R21
+R1
+R2
+R3
+Z49 8C:/Users/chriskasper/Desktop/PipelineCPU/EXMEM.vhd
+Z50 FC:/Users/chriskasper/Desktop/PipelineCPU/EXMEM.vhd
+l0
+L4
+Vk^YId;n@K214gb32U`EAR1
+!s100 e:JMQD__QKNe]C87<I>f00
+R6
+32
+Z51 !s110 1541009017
+!i10b 1
+Z52 !s108 1541009017.000000
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/EXMEM.vhd|
+Z54 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/EXMEM.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 5 exmem 0 22 k^YId;n@K214gb32U`EAR1
+l22
+L17
+VGokhRWgY:TYARIJCXi<NY1
+!s100 _e@Ka?@KB`1CBeEB23G;:3
+R6
+32
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R11
+R12
+Eidex
+Z55 w1540589451
+R21
+R1
+R2
+R3
+Z56 8C:/Users/chriskasper/Desktop/PipelineCPU/IDEX.vhd
+Z57 FC:/Users/chriskasper/Desktop/PipelineCPU/IDEX.vhd
+l0
+L4
+VJaQFiSCmKJeY0Aec5[2Ja1
+!s100 M^R?;77jDKCjaYm]Wjo9Y0
+R6
+32
+R51
+!i10b 1
+R52
+Z58 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/IDEX.vhd|
+Z59 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/IDEX.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 4 idex 0 22 JaQFiSCmKJeY0Aec5[2Ja1
+l23
+L17
+VfKiYW]`832lLjQ>gDMA1o1
+!s100 ll39f:HVJnX5GZZV@N<FO1
+R6
+32
+R51
+!i10b 1
+R52
+R58
+R59
+!i113 1
+R11
+R12
+Eifid
+Z60 w1540573577
+R21
+R1
+R2
+R3
+Z61 8C:/Users/chriskasper/Desktop/PipelineCPU/IFID.vhd
+Z62 FC:/Users/chriskasper/Desktop/PipelineCPU/IFID.vhd
+l0
+L4
+V6bOg7[fB0j=[23>A>X:^c3
+!s100 fL6dX:NQP0`UGJ5[bIFDz0
+R6
+32
+R51
+!i10b 1
+R52
+Z63 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/IFID.vhd|
+Z64 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/IFID.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 4 ifid 0 22 6bOg7[fB0j=[23>A>X:^c3
+l12
+L10
+VF;TZoWjczdf1o_^^LllcP0
+!s100 c9UEY<n1ALY[OXJN=]9k<2
+R6
+32
+R51
+!i10b 1
+R52
+R63
+R64
+!i113 1
+R11
+R12
+Einstmemory
+Z65 w1541009009
+R21
+R1
+R2
+R3
+Z66 8C:/Users/chriskasper/Desktop/PipelineCPU/InstMemory.vhd
+Z67 FC:/Users/chriskasper/Desktop/PipelineCPU/InstMemory.vhd
+l0
+L5
+V;0WeK_18QOT974ZfA5A282
+!s100 T5e6abJ6g?hCHhgJRP4<L3
+R6
+32
+R29
+!i10b 1
+R35
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/InstMemory.vhd|
+Z69 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/InstMemory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 10 instmemory 0 22 ;0WeK_18QOT974ZfA5A282
+l12
+L7
+VJLo1B;N16I@=bH:NWk?M21
+!s100 lZKGSVc_o8=?z4]BMcSED1
+R6
+32
+R29
+!i10b 1
+R35
+R68
+R69
+!i113 1
+R11
+R12
+Ememwb
+Z70 w1540579952
+R21
+R1
+R2
+R3
+Z71 8C:/Users/chriskasper/Desktop/PipelineCPU/MEMWB.vhd
+Z72 FC:/Users/chriskasper/Desktop/PipelineCPU/MEMWB.vhd
+l0
+L4
+V?oe:P^NeN2`P[D`ZGgWgD2
+!s100 9SR1G`88aVlD<N0M^ML^C0
+R6
+32
+R51
+!i10b 1
+R52
+Z73 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/MEMWB.vhd|
+Z74 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/MEMWB.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+Z75 DEx4 work 5 memwb 0 22 ?oe:P^NeN2`P[D`ZGgWgD2
+l20
+L15
+Z76 V14Wd]_50aSB^Gg[i@?7Bm1
+Z77 !s100 MFKme240WE2S:UhYBjV[83
+R6
+32
+R51
+!i10b 1
+R52
+R73
+R74
+!i113 1
+R11
+R12
+Emux32
+R0
+R1
+R2
+R3
+Z78 8C:/Users/chriskasper/Desktop/PipelineCPU/mux32.vhd
+Z79 FC:/Users/chriskasper/Desktop/PipelineCPU/mux32.vhd
+l0
+L4
+V@;XVhQh[NnOQzS0HTDnIA0
+!s100 OR1@K8cO9SQ8H07WTk2I?0
+R6
+32
+R29
+!i10b 1
+R35
+Z80 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/mux32.vhd|
+Z81 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/mux32.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 5 mux32 0 22 @;XVhQh[NnOQzS0HTDnIA0
+l12
+L10
+VC^^aBdF^Qm1Ze?DYW2maX1
+!s100 lFh^O<o3zlQ`ON>B^a`M@1
+R6
+32
+R29
+!i10b 1
+R35
+R80
+R81
+!i113 1
+R11
+R12
+Emux5
+R0
+R1
+R2
+R3
+Z82 8C:/Users/chriskasper/Desktop/PipelineCPU/mux5.vhd
+Z83 FC:/Users/chriskasper/Desktop/PipelineCPU/mux5.vhd
+l0
+L4
+V;Gl?A076kefo`SLl9i;[D2
+!s100 go`3>CK@=cfNQcB@<JRVQ3
+R6
+32
+R29
+!i10b 1
+R35
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/mux5.vhd|
+Z85 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/mux5.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 4 mux5 0 22 ;Gl?A076kefo`SLl9i;[D2
+l12
+L10
+VC?17YJ6@V3fQ5BdLah@Cd2
+!s100 `cef8Ag1@]WC1elUC9C[82
+R6
+32
+R29
+!i10b 1
+R35
+R84
+R85
+!i113 1
+R11
+R12
+Enor32
+R0
+R1
+R2
+R3
+Z86 8C:/Users/chriskasper/Desktop/PipelineCPU/NOR32.vhd
+Z87 FC:/Users/chriskasper/Desktop/PipelineCPU/NOR32.vhd
+l0
+L4
+Vz5DM98=g7<2K?bJ1o=OoQ3
+!s100 5Z_DX^OFfR_<Xgk2CIUV73
+R6
+32
+R29
+!i10b 1
+R35
+Z88 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/NOR32.vhd|
+Z89 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/NOR32.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 5 nor32 0 22 z5DM98=g7<2K?bJ1o=OoQ3
+l11
+L9
+V;c>knKkem5=VF0U8>LOZk2
+!s100 c_LRSzh]TPz>z1RQbLX?m0
+R6
+32
+R29
+!i10b 1
+R35
+R88
+R89
+!i113 1
+R11
+R12
+Epc
+R0
+R1
+R2
+R3
+Z90 8C:/Users/chriskasper/Desktop/PipelineCPU/PC.vhd
+Z91 FC:/Users/chriskasper/Desktop/PipelineCPU/PC.vhd
+l0
+L4
+V@g]06lNmQdR9A0^[fPi^b0
+!s100 G6F[lgEAYFeE`izJHLnH^0
+R6
+32
+R29
+!i10b 1
+R35
+Z92 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/PC.vhd|
+Z93 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/PC.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 2 pc 0 22 @g]06lNmQdR9A0^[fPi^b0
+l12
+L10
+Vk1UjR:5`?ie@HRiEgFF6F1
+!s100 UMJ>OI;Qg:l4:O35PeS`31
+R6
+32
+R29
+!i10b 1
+R35
+R92
+R93
+!i113 1
+R11
+R12
+Eregisters
+Z94 w1541008649
+R21
+R1
+R2
+R3
+Z95 8C:/Users/chriskasper/Desktop/PipelineCPU/registers.vhd
+Z96 FC:/Users/chriskasper/Desktop/PipelineCPU/registers.vhd
+l0
+L4
+V1YOcBkQObJ8>Obo8JM78h1
+!s100 3_m1RgG4P[S7m7QLW4FL_1
+R6
+32
+R51
+!i10b 1
+R52
+Z97 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/registers.vhd|
+Z98 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/registers.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R21
+R1
+R2
+DEx4 work 9 registers 0 22 1YOcBkQObJ8>Obo8JM78h1
+l16
+L11
+VYRU[j_IBM41lBO4R?11Am3
+!s100 7dJ8BDGE_1gAX^6JPWb:Y1
+R6
+32
+R51
+!i10b 1
+R52
+R97
+R98
+!i113 1
+R11
+R12
+Eshiftleft2
+R0
+R1
+R2
+R3
+Z99 8C:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2.vhd
+Z100 FC:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2.vhd
+l0
+L4
+VOeAfO=T[T>kSc7[iX22aF2
+!s100 mHObFgnCLRP^Ec;6b8ojE1
+R6
+32
+R51
+!i10b 1
+R52
+Z101 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2.vhd|
+Z102 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 shiftleft2 0 22 OeAfO=T[T>kSc7[iX22aF2
+l10
+L9
+V51Z:2d25S8YE9f`aC_H1O2
+!s100 ?TfDLboc_E;L8h:?lS<Wa0
+R6
+32
+R51
+!i10b 1
+R52
+R101
+R102
+!i113 1
+R11
+R12
+Eshiftleft2jump
+R0
+R1
+R2
+R3
+Z103 8C:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2Jump.vhd
+Z104 FC:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2Jump.vhd
+l0
+L4
+VoO0eE=VJgBgA3P=9d:]cW2
+!s100 MOd[eHj6ZFD3kfngf5V0i3
+R6
+32
+R51
+!i10b 1
+R52
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2Jump.vhd|
+Z106 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/ShiftLeft2Jump.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 14 shiftleft2jump 0 22 oO0eE=VJgBgA3P=9d:]cW2
+l12
+L10
+V>b49?O<RU3f<[]gT2cSPc2
+!s100 ZhEDRRcK2^L@=P6hgnWC23
+R6
+32
+R51
+!i10b 1
+R52
+R105
+R106
+!i113 1
+R11
+R12
+Esignextend
+R0
+R1
+R2
+R3
+Z107 8C:/Users/chriskasper/Desktop/PipelineCPU/SignExtend.vhd
+Z108 FC:/Users/chriskasper/Desktop/PipelineCPU/SignExtend.vhd
+l0
+L4
+ViCUznlb2z5?PzNPEzjnkJ2
+!s100 45Pd1iCPO8:9[Kd45_K^H1
+R6
+32
+R7
+!i10b 1
+R8
+Z109 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/PipelineCPU/SignExtend.vhd|
+Z110 !s107 C:/Users/chriskasper/Desktop/PipelineCPU/SignExtend.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 signextend 0 22 iCUznlb2z5?PzNPEzjnkJ2
+l10
+L9
+VUG8Gk3bO<[WXRQOJ]Vo5C3
+!s100 <<dDb97B0]>TlO`9^Y8ol0
+R6
+32
+R7
+!i10b 1
+R8
+R109
+R110
+!i113 1
+R11
+R12

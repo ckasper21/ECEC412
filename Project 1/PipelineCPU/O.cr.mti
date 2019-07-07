@@ -1,0 +1,137 @@
+C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2
+-- Compiling architecture behavioral of ShiftLeft2
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/PC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/PC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity PC
+-- Compiling architecture behav of PC
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU1
+-- Compiling architecture behav of ALU1
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALUControl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALUControl.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity ALUControl
+-- Compiling architecture behav of ALUControl
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/DataMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/DataMemory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity DataMemory
+-- Compiling architecture Behavioral of DataMemory
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2Jump.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2Jump.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ShiftLeft2Jump
+-- Compiling architecture behav of ShiftLeft2Jump
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ALU32
+-- Compiling architecture struc of ALU32
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/InstMemory.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/InstMemory.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity InstMemory
+-- Compiling architecture Behavioral of InstMemory
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux5.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux5.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux5
+-- Compiling architecture behav of mux5
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux32
+-- Compiling architecture behav of mux32
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/Control.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/Control.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Compiling entity Control
+-- Compiling architecture behav of Control
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/NOR32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/NOR32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity NOR32
+-- Compiling architecture behav of NOR32
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/And2.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/And2.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity And2
+-- Compiling architecture behav of And2
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/registers.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/registers.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity registers
+-- Compiling architecture Behavioral of registers
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/CPU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/CPU.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity CPU
+-- Compiling architecture structure of CPU
+
+} {} {}} C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/SignExtend.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/SignExtend.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity SignExtend
+-- Compiling architecture behavioral of SignExtend
+
+} {} {}}

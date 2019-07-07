@@ -1,0 +1,85 @@
+--- Forward Code ----
+--Code 1: - Pass
+-- add t1, t2, t3
+memArray(0)<="00000001";
+memArray(1)<="01001011";
+memArray(2)<="01001000";
+memArray(3)<="00100000";
+-- add s1, t1, t4
+memArray(4)<="00000001";
+memArray(5)<="00101100";
+memArray(6)<="10001000";
+memArray(7)<="00100000";
+
+--Code 2: - Pass
+-- lw t1, 0(t2)
+memArray(0)<="10001101";
+memArray(1)<="01001001";
+memArray(2)<="00000000";
+memArray(3)<="00000000";
+-- NOP
+memArray(4)<="UUUUUUUU";
+memArray(5)<="UUUUUUUU";
+memArray(6)<="UUUUUUUU";
+memArray(7)<="UUUUUUUU";
+-- add s1 t1 t4
+memArray(8)<="00000001";
+memArray(9)<="00101100";
+memArray(10)<="10001000";
+memArray(11)<="00100000";
+
+--Code 3: - Pass
+-- add t1 t2 t3
+memArray(0)<="00000001";
+memArray(1)<="01001011";
+memArray(2)<="01001000";
+memArray(3)<="00100000";
+-- sw t1 8(t5)
+memArray(4)<="10101101";
+memArray(5)<="10101001";
+memArray(6)<="00000000";
+memArray(7)<="00001000";
+
+--Code 4: - Pass
+-- lw t1 0(t2)
+memArray(0)<="10001101";
+memArray(1)<="01001001";
+memArray(2)<="00000000";
+memArray(3)<="00000000";
+-- sw t1 8(t3)
+memArray(4)<="10101101";
+memArray(5)<="10101001";
+memArray(6)<="00000000";
+memArray(7)<="00001000";
+
+--Code 1 & 2 (Change registers!): ### WITH NOPS - Pass
+-- beq t1 t2 L
+memArray(0)<="00010001";
+memArray(1)<="00101010";
+memArray(2)<="00000000";
+memArray(3)<="00000011";
+-- add t3 s4 s5
+memArray(4)<="00000010";
+memArray(5)<="10010101";
+memArray(6)<="01011000";
+memArray(7)<="00100000";
+-- j exit
+memArray(8)<="00001000";
+memArray(9)<="00000000";
+memArray(10)<="00000000";
+memArray(11)<="00000101";
+-- NOPS
+memArray(12)<="UUUUUUUU";
+memArray(13)<="UUUUUUUU";
+memArray(14)<="UUUUUUUU";
+memArray(15)<="UUUUUUUU";
+-- L: sub t4 s4 s5
+memArray(16)<="00000010";
+memArray(17)<="10010101";
+memArray(18)<="01100000";
+memArray(19)<="00100010";
+-- exit: add t5 s4 s4
+memArray(20)<="00000010";
+memArray(21)<="10010100";
+memArray(22)<="01101000";
+memArray(23)<="00100000";

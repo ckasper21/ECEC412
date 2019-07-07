@@ -1,0 +1,42 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL, IEEE.NUMERIC_STD.ALL;
+
+entity MEMWB is
+port(clk: in std_logic;
+	RD,ALUResult:in std_logic_vector(31 downto 0);
+	WR: in std_logic_vector(4 downto 0);
+	RD_out,ALUResult_out:out std_logic_vector(31 downto 0);
+	WR_out: out std_logic_vector(4 downto 0);
+
+	MemtoReg,RegWrite: in std_logic;
+	MemtoReg_out,RegWrite_out: out std_logic);
+end MEMWB;
+
+architecture Behavioral of MEMWB is
+signal RD_sig,ALUResult_sig,WR_sig:std_logic_vector(31 downto 0);
+signal WR_sig:std_logic_vector(4 downto 0);
+
+signal MemtoReg_sig,RegWrite_sig: std_logic;
+begin
+
+RD_sig <= RD;
+WR_sig <= WR;
+ALUResult_sig <= ALUResult;
+MemtoReg_sig <= MemtoReg;
+RegWrite_sig <= RegWrite;
+
+process(clk)
+
+begin
+
+if clk='1' and clk'event then
+	RD_out <= RD_sig;
+	WR_out <= WR_sig;
+	ALUResult_out <= ALUResult_sig;
+	MemtoReg_out<=MemtoReg_sig;
+	RegWrite_out<=RegWrite_sig;
+end if;
+
+end process;
+
+end Behavioral;

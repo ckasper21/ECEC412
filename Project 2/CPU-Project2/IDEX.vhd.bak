@@ -1,0 +1,63 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL, IEEE.NUMERIC_STD.ALL;
+
+entity IDEX is
+port(clk: in std_logic;
+	RR1,RR2,SE:in std_logic_vector(31 downto 0);
+	Inst2521,Inst2016,Inst1511: in std_logic_vector(4 downto 0);
+	RR1_out,RR2_out,SE_out:out std_logic_vector(31 downto 0);
+	Inst2521_out,Inst2016_out,Inst1511_out:out std_logic_vector(4 downto 0);
+
+	RegDst, Branch, MemRead, MemtoReg,ALUSrc, RegWrite, MemWrite  : in std_logic;
+	ALUOp: in std_logic_vector(1 downto 0);
+	RegDst_out, Branch_out, MemRead_out, MemtoReg_out,ALUSrc_out, RegWrite_out, MemWrite_out  : out std_logic;
+	ALUOp_out: out std_logic_vector(1 downto 0));
+end IDEX;
+
+architecture Behavioral of IDEX is
+signal RR1_sig,RR2_sig,SE_sig: std_logic_vector(31 downto 0);
+signal Inst2521_sig,Inst2016_sig,Inst1511_sig: std_logic_vector(4 downto 0);
+signal RegDst_sig, Branch_sig, MemRead_sig, MemtoReg_sig,ALUSrc_sig, RegWrite_sig, MemWrite_sig: std_logic;
+signal ALUOp_sig: std_logic_vector(1 downto 0);
+
+begin
+InstPC4_sig <= InstPC4;
+RR1_sig <= RR1;
+RR2_sig <= RR2;
+SE_sig <= SE;
+Inst2521_sig <= Inst2521;
+Inst2016_sig <= Inst2016;
+Inst1511_sig <= Inst1511;
+RegDst_sig <= RegDst;
+Branch_sig <= Branch;
+MemRead_sig <= MemRead;
+MemtoReg_sig <= MemtoReg;
+ALUSrc_sig <= ALUSrc;
+RegWrite_sig <= RegWrite;
+MemWrite_sig <= MemWrite;
+ALUOp_sig <= ALUOp;
+process(clk)
+
+begin
+
+if clk='1' and clk'event then
+	InstPC4_out <= InstPC4_sig;
+	RR1_out <= RR1_sig;
+	RR2_out <= RR2_sig;
+	SE_out <= SE_sig;
+	Inst2521_out <= Inst2521_sig;
+	Inst2016_out <= Inst2016_sig;
+	Inst1511_out <= Inst1511_sig;
+	RegDst_out <= RegDst_sig;
+	Branch_out <= Branch_sig;
+	MemRead_out <= MemRead_sig;
+	MemtoReg_out <= MemtoReg_sig;
+	ALUSrc_out <= ALUSrc_sig;
+	RegWrite_out <= RegWrite_sig;
+	MemWrite_out <= MemWrite_sig;
+	ALUOp_out <= ALUOp_sig;
+end if;
+
+end process;
+
+end Behavioral;

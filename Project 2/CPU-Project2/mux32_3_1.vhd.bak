@@ -1,0 +1,27 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity mux32_3_1 is
+port(v, x, y : in std_logic_vector(31 downto 0);
+	z : out std_logic_vector(31 downto 0);
+      sel : in std_logic_vector(1 downto 0));
+end mux32_3_1;
+
+architecture behav of mux32_3_1 is
+
+begin
+
+process(v,x,y,sel)
+
+begin
+
+if sel="00" or sel="XX" then
+	z <= v;
+elsif sel = "10" then
+	z <= x;
+elsif sel = "01" then
+	z <= y;
+end if;
+
+end process;
+end behav;

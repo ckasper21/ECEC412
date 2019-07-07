@@ -1,0 +1,650 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/chriskasper/Desktop/ECEC 412/SingleCycle_Stack
+Ealu1
+Z0 w1540349052
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001
+Z4 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU1.vhd
+Z5 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU1.vhd
+l0
+L4
+VFX7lWN<;3DMc?XmSc9ji=1
+!s100 z6FXFoi9OW=2[JU>cY0Ye2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1540349127
+!i10b 1
+Z8 !s108 1540349127.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU1.vhd|
+Z10 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU1.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Abehav
+R1
+R2
+DEx4 work 4 alu1 0 22 FX7lWN<;3DMc?XmSc9ji=1
+l12
+L10
+Vkh<SZ;^O6`K5ed9^`dL;70
+!s100 lmo3Fh;jem`:0MWElSTRf0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu32
+Z13 w1540349051
+R1
+R2
+R3
+Z14 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU32.vhd
+Z15 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU32.vhd
+l0
+L3
+V7<G]j]d@GFADZ4eg3kG;_2
+!s100 VGMN5L6IlXON^R^I=Io2j0
+R6
+32
+Z16 !s110 1540349128
+!i10b 1
+Z17 !s108 1540349128.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU32.vhd|
+Z19 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALU32.vhd|
+!i113 1
+R11
+R12
+Astruc
+R1
+R2
+DEx4 work 5 alu32 0 22 7<G]j]d@GFADZ4eg3kG;_2
+l31
+L11
+VS56ZLKmbo7GgKBEJj808^1
+!s100 I>ofUO2c4GeVg`^CdKnPm2
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Ealucontrol
+R0
+Z20 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z21 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z22 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R1
+R2
+R3
+Z23 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALUControl.vhd
+Z24 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALUControl.vhd
+l0
+L6
+V@aaDV[:QIl^KN2@4[<aK30
+!s100 YJDc2B@zZTJUbnj4Hl=EC0
+R6
+32
+R16
+!i10b 1
+R17
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALUControl.vhd|
+Z26 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ALUControl.vhd|
+!i113 1
+R11
+R12
+Abehav
+R20
+R21
+R22
+R1
+R2
+DEx4 work 10 alucontrol 0 22 @aaDV[:QIl^KN2@4[<aK30
+l14
+L12
+V5Az@P9hze0n]2oRZQc<B@2
+!s100 LG@ccJA8ELjS3kD4z9U933
+R6
+32
+R16
+!i10b 1
+R17
+R25
+R26
+!i113 1
+R11
+R12
+Eand2
+R0
+R1
+R2
+R3
+Z27 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/And2.vhd
+Z28 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/And2.vhd
+l0
+L4
+VF[;ROcPY<Mgh5;Ha6;dDQ3
+!s100 mTO]lfNgCI=`fD6?^=]013
+R6
+32
+R16
+!i10b 1
+R17
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/And2.vhd|
+Z30 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/And2.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 4 and2 0 22 F[;ROcPY<Mgh5;Ha6;dDQ3
+l12
+L10
+VGKam;oj5gL7oDC9aZ3W5X1
+!s100 iYZJm@RWA5Dn9EVU]IIM41
+R6
+32
+R16
+!i10b 1
+R17
+R29
+R30
+!i113 1
+R11
+R12
+Econtrol
+R0
+R20
+R1
+R2
+R3
+Z31 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/Control.vhd
+Z32 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/Control.vhd
+l0
+L5
+V=H_GHE=3OQoc@Se315T8Y1
+!s100 n81ZM9Eh:ihHb_5K?FbVG3
+R6
+32
+R16
+!i10b 1
+R17
+Z33 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/Control.vhd|
+Z34 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/Control.vhd|
+!i113 1
+R11
+R12
+Abehav
+R20
+R1
+R2
+DEx4 work 7 control 0 22 =H_GHE=3OQoc@Se315T8Y1
+l14
+L12
+VYefMGWKd3<Q[E>gFi9MR71
+!s100 3:XXWh>kjG8Ml5RRh@TAc3
+R6
+32
+R16
+!i10b 1
+R17
+R33
+R34
+!i113 1
+R11
+R12
+Ecpu
+R0
+R22
+R1
+R2
+R3
+Z35 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/CPU.vhd
+Z36 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/CPU.vhd
+l0
+L5
+VkRIz20VCh?jLc@@W1K6QG3
+!s100 EGDd9UgUj=XXW`DmWR=:T0
+R6
+32
+R16
+!i10b 1
+R17
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/CPU.vhd|
+Z38 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/CPU.vhd|
+!i113 1
+R11
+R12
+Astructure
+R22
+R1
+R2
+DEx4 work 3 cpu 0 22 kRIz20VCh?jLc@@W1K6QG3
+l101
+L9
+Vc1G>n8O`6H3?FLjKdJUeV0
+!s100 g[RdXo7[8Eh0DezY6BzW>1
+R6
+32
+R16
+!i10b 1
+R17
+R37
+R38
+!i113 1
+R11
+R12
+Edatamemory
+R0
+R22
+R1
+R2
+R3
+Z39 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/DataMemory.vhd
+Z40 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/DataMemory.vhd
+l0
+L4
+VN0HTGH`e@eIekLzUlzOc43
+!s100 2I86ca>bcjza[54XInlEF3
+R6
+32
+Z41 !s110 1540349130
+!i10b 1
+Z42 !s108 1540349130.000000
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/DataMemory.vhd|
+Z44 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/DataMemory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R22
+R1
+R2
+DEx4 work 10 datamemory 0 22 N0HTGH`e@eIekLzUlzOc43
+l16
+L11
+VPWUN9XEn=@OWXVQ96ioRM1
+!s100 zFH6LQk[=TMLgS]DjM]7<2
+R6
+32
+R41
+!i10b 1
+R42
+R43
+R44
+!i113 1
+R11
+R12
+Einstmemory
+R0
+R22
+R1
+R2
+R3
+Z45 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/InstMemory.vhd
+Z46 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/InstMemory.vhd
+l0
+L5
+V;0WeK_18QOT974ZfA5A282
+!s100 T5e6abJ6g?hCHhgJRP4<L3
+R6
+32
+Z47 !s110 1540349149
+!i10b 1
+Z48 !s108 1540349149.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/InstMemory.vhd|
+Z50 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/InstMemory.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R22
+R1
+R2
+DEx4 work 10 instmemory 0 22 ;0WeK_18QOT974ZfA5A282
+l12
+L7
+V1`BdEDJhNA6>@B`mdF]d12
+!s100 H[XOi`;a<^7;2MN:T9PD91
+R6
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R11
+R12
+Emux32
+R0
+R1
+R2
+R3
+Z51 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux32.vhd
+Z52 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux32.vhd
+l0
+L4
+V@;XVhQh[NnOQzS0HTDnIA0
+!s100 OR1@K8cO9SQ8H07WTk2I?0
+R6
+32
+R47
+!i10b 1
+R48
+Z53 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux32.vhd|
+Z54 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux32.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 5 mux32 0 22 @;XVhQh[NnOQzS0HTDnIA0
+l12
+L10
+VC^^aBdF^Qm1Ze?DYW2maX1
+!s100 lFh^O<o3zlQ`ON>B^a`M@1
+R6
+32
+R47
+!i10b 1
+R48
+R53
+R54
+!i113 1
+R11
+R12
+Emux5
+R0
+R1
+R2
+R3
+Z55 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux5.vhd
+Z56 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux5.vhd
+l0
+L4
+V;Gl?A076kefo`SLl9i;[D2
+!s100 go`3>CK@=cfNQcB@<JRVQ3
+R6
+32
+R47
+!i10b 1
+R48
+Z57 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux5.vhd|
+Z58 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/mux5.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 4 mux5 0 22 ;Gl?A076kefo`SLl9i;[D2
+l12
+L10
+VC?17YJ6@V3fQ5BdLah@Cd2
+!s100 `cef8Ag1@]WC1elUC9C[82
+R6
+32
+R47
+!i10b 1
+R48
+R57
+R58
+!i113 1
+R11
+R12
+Enor32
+R0
+R1
+R2
+R3
+Z59 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/NOR32.vhd
+Z60 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/NOR32.vhd
+l0
+L4
+Vz5DM98=g7<2K?bJ1o=OoQ3
+!s100 5Z_DX^OFfR_<Xgk2CIUV73
+R6
+32
+Z61 !s110 1540349150
+!i10b 1
+R48
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/NOR32.vhd|
+Z63 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/NOR32.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 5 nor32 0 22 z5DM98=g7<2K?bJ1o=OoQ3
+l11
+L9
+V;c>knKkem5=VF0U8>LOZk2
+!s100 c_LRSzh]TPz>z1RQbLX?m0
+R6
+32
+R61
+!i10b 1
+R48
+R62
+R63
+!i113 1
+R11
+R12
+Epc
+R0
+R1
+R2
+R3
+Z64 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/PC.vhd
+Z65 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/PC.vhd
+l0
+L4
+V@g]06lNmQdR9A0^[fPi^b0
+!s100 G6F[lgEAYFeE`izJHLnH^0
+R6
+32
+R61
+!i10b 1
+Z66 !s108 1540349150.000000
+Z67 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/PC.vhd|
+Z68 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/PC.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+DEx4 work 2 pc 0 22 @g]06lNmQdR9A0^[fPi^b0
+l12
+L10
+Vk1UjR:5`?ie@HRiEgFF6F1
+!s100 UMJ>OI;Qg:l4:O35PeS`31
+R6
+32
+R61
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R11
+R12
+Eregisters
+R0
+R22
+R1
+R2
+R3
+Z69 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/registers.vhd
+Z70 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/registers.vhd
+l0
+L4
+VoNch_BW@2hi>FbNgb3;d=1
+!s100 :[G2PJ5ML6QdiO9@[1SIW3
+R6
+32
+R61
+!i10b 1
+R66
+Z71 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/registers.vhd|
+Z72 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/registers.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R22
+R1
+R2
+DEx4 work 9 registers 0 22 oNch_BW@2hi>FbNgb3;d=1
+l16
+L11
+VHm1D;?J4_z8MfUIMP9C<H2
+!s100 7CJE8hR:aaVdn@[bVRZbU0
+R6
+32
+R61
+!i10b 1
+R66
+R71
+R72
+!i113 1
+R11
+R12
+Eshiftleft2
+R0
+R1
+R2
+R3
+Z73 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2.vhd
+Z74 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2.vhd
+l0
+L4
+VOeAfO=T[T>kSc7[iX22aF2
+!s100 mHObFgnCLRP^Ec;6b8ojE1
+R6
+32
+R61
+!i10b 1
+R66
+Z75 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2.vhd|
+Z76 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 shiftleft2 0 22 OeAfO=T[T>kSc7[iX22aF2
+l10
+L9
+V51Z:2d25S8YE9f`aC_H1O2
+!s100 ?TfDLboc_E;L8h:?lS<Wa0
+R6
+32
+R61
+!i10b 1
+R66
+R75
+R76
+!i113 1
+R11
+R12
+Eshiftleft2jump
+R0
+R1
+R2
+R3
+Z77 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2Jump.vhd
+Z78 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2Jump.vhd
+l0
+L4
+VoO0eE=VJgBgA3P=9d:]cW2
+!s100 MOd[eHj6ZFD3kfngf5V0i3
+R6
+32
+R61
+!i10b 1
+R66
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2Jump.vhd|
+Z80 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/ShiftLeft2Jump.vhd|
+!i113 1
+R11
+R12
+Abehav
+R1
+R2
+Z81 DEx4 work 14 shiftleft2jump 0 22 oO0eE=VJgBgA3P=9d:]cW2
+l12
+L10
+Z82 V>b49?O<RU3f<[]gT2cSPc2
+Z83 !s100 ZhEDRRcK2^L@=P6hgnWC23
+R6
+32
+R61
+!i10b 1
+R66
+R79
+R80
+!i113 1
+R11
+R12
+Esignextend
+R0
+R1
+R2
+R3
+Z84 8C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/SignExtend.vhd
+Z85 FC:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/SignExtend.vhd
+l0
+L4
+ViCUznlb2z5?PzNPEzjnkJ2
+!s100 45Pd1iCPO8:9[Kd45_K^H1
+R6
+32
+R7
+!i10b 1
+R8
+Z86 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/SignExtend.vhd|
+Z87 !s107 C:/Users/chriskasper/Desktop/drive-download-20181024T024352Z-001/SignExtend.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 10 signextend 0 22 iCUznlb2z5?PzNPEzjnkJ2
+l10
+L9
+VUG8Gk3bO<[WXRQOJ]Vo5C3
+!s100 <<dDb97B0]>TlO`9^Y8ol0
+R6
+32
+R7
+!i10b 1
+R8
+R86
+R87
+!i113 1
+R11
+R12
